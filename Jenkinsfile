@@ -1,4 +1,4 @@
-node("OpenBook") {
+node {
 
     stage('Download') {
              downloadRepo {
